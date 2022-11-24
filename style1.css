@@ -172,7 +172,8 @@ li {
 }
 
 .minbox li:nth-child(1) {
-    background: url(../img-one/01.jpg) no-repeat 0 0;
+    background: url(https://voidtech.cn/i/2022/11/24/kqccnc.jpg
+) no-repeat 0 0;
     -webkit-transform: translateZ(50px);
 }
 
